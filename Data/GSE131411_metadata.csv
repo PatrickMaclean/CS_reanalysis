@@ -1,0 +1,97 @@
+Sample,ID,Timepoint,Timepoint_hr,Cohort,Sex,Age,D28.mortality,Cause
+E07T1,E07,1,16hr,SS,M,24,No,Respiratory
+E07T2,E07,2,48hr,SS,M,24,No,Respiratory
+E07T3,E07,3,7days,SS,M,24,No,Respiratory
+E16T1,E16,1,16hr,SS,M,62,Yes,Respiratory
+E16T2,E16,2,48hr,SS,M,62,Yes,Respiratory
+E16T3,E16,3,7days,SS,M,62,Yes,Respiratory
+E17T1,E17,1,16hr,SS,F,80,No,Abdominal
+E17T2,E17,2,48hr,SS,F,80,No,Abdominal
+E17T3,E17,3,7days,SS,F,80,No,Abdominal
+E25T1,E25,1,16hr,CS,F,79,No,Tamponade + Congenital cardiomyopathy + Atrial Fib
+E25T2,E25,2,48hr,CS,F,79,No,Tamponade + Congenital cardiomyopathy + Atrial Fib
+E25T3,E25,3,7days,CS,F,79,No,Tamponade + Congenital cardiomyopathy + Atrial Fib
+E31T1,E31,1,16hr,CS,M,55,Yes,Stress cardiomyopathy (TakoTsubo)
+E31T2,E31,2,48hr,CS,M,55,Yes,Stress cardiomyopathy (TakoTsubo)
+E31T3,E31,3,7days,CS,M,55,Yes,Stress cardiomyopathy (TakoTsubo)
+E32T1,E32,1,16hr,SS,F,73,No,Urinary Tract
+E32T2,E32,2,48hr,SS,F,73,No,Urinary Tract
+E32T3,E32,3,7days,SS,F,73,No,Urinary Tract
+E40T1,E40,1,16hr,SS,M,93,Yes,Respiratory
+E40T2,E40,2,48hr,SS,M,93,Yes,Respiratory
+E40T3,E40,3,7days,SS,M,93,Yes,Respiratory
+E41T1,E41,1,16hr,SS,F,91,Yes,Abdominal
+E41T2,E41,2,48hr,SS,F,91,Yes,Abdominal
+E41T3,E41,3,7days,SS,F,91,Yes,Abdominal
+G01T1,G01,1,16hr,SS,M,59,No,Respiratory
+G01T2,G01,2,48hr,SS,M,59,No,Respiratory
+G01T3,G01,3,7days,SS,M,59,No,Respiratory
+G03T1,G03,1,16hr,CS,M,81,No,Arrhytmia (atrial fibrilation with rapid ventricular response)
+G03T2,G03,2,48hr,CS,M,81,No,Arrhytmia (atrial fibrilation with rapid ventricular response)
+G03T3,G03,3,7days,CS,M,81,No,Arrhytmia (atrial fibrilation with rapid ventricular response)
+G07T1,G07,1,16hr,SS,F,74,No,Abdominal
+G07T2,G07,2,48hr,SS,F,74,No,Abdominal
+G07T3,G07,3,7days,SS,F,74,No,Abdominal
+G10T1,G10,1,16hr,CS,M,50,No,ACS (VF and CA)
+G10T2,G10,2,48hr,CS,M,50,No,ACS (VF and CA)
+G10T3,G10,3,7days,CS,M,50,No,ACS (VF and CA)
+G11T1,G11,1,16hr,SS,M,65,No,Respiratory
+G11T2,G11,2,48hr,SS,M,65,No,Respiratory
+G11T3,G11,3,7days,SS,M,65,No,Respiratory
+G12T1,G12,1,16hr,SS,M,80,Yes,Respiratory
+G12T2,G12,2,48hr,SS,M,80,Yes,Respiratory
+G12T3,G12,3,7days,SS,M,80,Yes,Respiratory
+G14T1,G14,1,16hr,CS,M,78,No,ACS (NSTEMI)
+G14T2,G14,2,48hr,CS,M,78,No,ACS (NSTEMI)
+G14T3,G14,3,7days,CS,M,78,No,ACS (NSTEMI)
+G16T1,G16,1,16hr,CS,M,77,No,Undetermined (decompensation of chronic HF by undetermine cause)
+G16T2,G16,2,48hr,CS,M,77,No,Undetermined (decompensation of chronic HF by undetermine cause)
+G16T3,G16,3,7days,CS,M,77,No,Undetermined (decompensation of chronic HF by undetermine cause)
+G24T1,G24,1,16hr,CS,M,46,No,ACS (STEMI with ventricular fibrilation and CA)
+G24T2,G24,2,48hr,CS,M,46,No,ACS (STEMI with ventricular fibrilation and CA)
+G24T3,G24,3,7days,CS,M,46,No,ACS (STEMI with ventricular fibrilation and CA)
+G26T1,G26,1,16hr,SS,M,61,No,Other (limbs)
+G26T2,G26,2,48hr,SS,M,61,No,Other (limbs)
+G26T3,G26,3,7days,SS,M,61,No,Other (limbs)
+G28T1,G28,1,16hr,SS,M,63,No,Respiratory and digestive (aspiration)
+G28T2,G28,2,48hr,SS,M,63,No,Respiratory and digestive (aspiration)
+G28T3,G28,3,7days,SS,M,63,No,Respiratory and digestive (aspiration)
+G29T1,G29,1,16hr,SS,F,27,No,Urinary Tract
+G29T2,G29,2,48hr,SS,F,27,No,Urinary Tract
+G29T3,G29,3,7days,SS,F,27,No,Urinary Tract
+G32T1,G32,1,16hr,CS,M,73,No,Arrhytmia (Flutter with rapid ventricular rate)
+G32T2,G32,2,48hr,CS,M,73,No,Arrhytmia (Flutter with rapid ventricular rate)
+G32T3,G32,3,7days,CS,M,73,No,Arrhytmia (Flutter with rapid ventricular rate)
+G33T1,G33,1,16hr,SS,M,68,Yes,Respiratory
+G33T2,G33,2,48hr,SS,M,68,Yes,Respiratory
+G33T3,G33,3,7days,SS,M,68,Yes,Respiratory
+G35T1,G35,1,16hr,SS,F,85,No,Abdominal
+G35T2,G35,2,48hr,SS,F,85,No,Abdominal
+G35T3,G35,3,7days,SS,F,85,No,Abdominal
+G42T1,G42,1,16hr,SS,M,86,No,Abdominal
+G42T2,G42,2,48hr,SS,M,86,No,Abdominal
+G42T3,G42,3,7days,SS,M,86,No,Abdominal
+G43T1,G43,1,16hr,SS,M,73,No,Abdominal
+G43T2,G43,2,48hr,SS,M,73,No,Abdominal
+G43T3,G43,3,7days,SS,M,73,No,Abdominal
+G44T1,G44,1,16hr,SS,M,32,No,Abdominal
+G44T2,G44,2,48hr,SS,M,32,No,Abdominal
+G44T3,G44,3,7days,SS,M,32,No,Abdominal
+G45T1,G45,1,16hr,SS,M,80,No,Respiratory
+G45T2,G45,2,48hr,SS,M,80,No,Respiratory
+G45T3,G45,3,7days,SS,M,80,No,Respiratory
+G46T1,G46,1,16hr,CS,M,83,No,ACS (STEMI)
+G46T2,G46,2,48hr,CS,M,83,No,ACS (STEMI)
+G46T3,G46,3,7days,CS,M,83,No,ACS (STEMI)
+G47T1,G47,1,16hr,SS,F,69,No,Urinary Tract
+G47T2,G47,2,48hr,SS,F,69,No,Urinary Tract
+G47T3,G47,3,7days,SS,F,69,No,Urinary Tract
+G48T1,G48,1,16hr,CS,M,70,No,Pulmonary embolism
+G48T2,G48,2,48hr,CS,M,70,No,Pulmonary embolism
+G48T3,G48,3,7days,CS,M,70,No,Pulmonary embolism
+G49T1,G49,1,16hr,SS,M,74,No,Other (limbs)
+G49T2,G49,2,48hr,SS,M,74,No,Other (limbs)
+G49T3,G49,3,7days,SS,M,74,No,Other (limbs)
+G50T1,G50,1,16hr,CS,M,64,Yes,Chronic dilated cardiomyopathy (unclear cause of acute episode)
+G50T2,G50,2,48hr,CS,M,64,Yes,Chronic dilated cardiomyopathy (unclear cause of acute episode)
+G50T3,G50,3,7days,CS,M,64,Yes,Chronic dilated cardiomyopathy (unclear cause of acute episode)
